@@ -11,7 +11,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     theme: '@vuepress/theme-default',
     themeConfig: {
         logo: 'https://vuejs.org/images/logo.png',
-        repo: 'vuejs/vuepress',
+        repo: '09473ZH/vuepress-blog',
         navbar: [
             // NavbarItem
             {
